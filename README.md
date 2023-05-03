@@ -1,12 +1,10 @@
 # Enigma Machine Assignment
 ## Introduction
-Please ensure you have read the instructions on Engage for a full introduction to this assignment.
-
 This notebook contains the full instructions for each part of the assignment, but it assumes you already have an understanding of the assignment and the basics of how an Enigma machine works.
 
 This notebook also includes instructions for how to format your code and some test cells like the ones you have seen in the exercise sheets. These are not exhaustive and outside of matching the names in the specified tests you are welcome to choose how you structure your code. We have tried to offer a good balance between being able to test your code, offering structure for the assignment, and also offering flexibility for you to be able to show off your own design ability.
 
-The earlier stages of this assignment contain more guidance than the later ones. You are encouraged to research and use Python features that you have not been taught in the unit, and this can add to the quality of your code (as defined in the instructions on Engage). Remember also that advanced work which goes beyond the specification and is well documented will be rewarded (see the final section below).
+The earlier stages of this assignment contain more guidance than the later ones. You are encouraged to research and use Python features that you have not been taught in the unit, and this can add to the quality of your code. Remember also that advanced work which goes beyond the specification and is well documented will be rewarded (see the final section below).
 
 ## Part One – Simulation
 In this part you will be producing a simulation of an Enigma machine using Python. Your code must be object-oriented, i.e. it must use classes. Some names of classes and methods will be specified in test cells, and you must match these where this is the case. Otherwise it is up to you how you implement the functionality and how you design your class structure.
